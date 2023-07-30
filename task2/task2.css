@@ -1,0 +1,42 @@
+*{margin: 0%;
+    padding: 0%;}
+    body{background: rgb(132 217 196 / 78%);}
+    h1{text-align: center;margin-top: 10px;}
+    #serveyForm{background: white;margin: 50px;border: 1px solid #ddd;margin-top: 10px;}
+    p{text-align: center;margin-top: 20px;}
+    #form{width: 350px;margin: auto;margin-top: 20px ;}
+    #form ul li{padding-bottom: 15px;padding-left: 20px;}
+    input{border: 1px solid #ddd;padding: 5px;box-shadow: 0px 0px 0pc 1px #00000054;text-decoration: none;list-style: none;
+    }
+    
+    
+    .txt{padding-left: 20px;}
+    .age{padding-left: 20px;}
+    .line{padding-left:10px ;}
+    .select{padding-left: 180px;}
+    .option{margin-left: 15px;
+        width: 150px;
+        padding: 5px;
+        background: #dddddd82;box-shadow: 0px 0px 0pc 1px #00000054;
+    }
+    #about{margin: auto;width:1170px}
+    
+    #recommand{width:1170px;margin:auto;overflow: hidden;margin-top: 10px;}
+    .first{padding-left: 210px;}
+    .second{padding-left: 310px;}
+    #radio{float:right;padding-right: 590px;}
+    #span{float:left}
+    .rdo{box-shadow: none;}
+    #aboutfcc{margin: auto;width:1170px;margin-top: 20px;}
+    .like{padding-left: 280px;}
+    .FCC{margin-left: 15px;
+        width: 150px;
+        padding: 5px;
+        background: #dddddd82;box-shadow: 0px 0px 0pc 1px #00000054;
+    }
+    #aboutThings{width:1170px;margin:auto;overflow: hidden;margin-top: 50px;margin-bottom: 20px;}
+    .improve{padding-left: 200px;}
+    .checkin{padding-left: 340px;}
+    #cheack{float:right;padding-right: 530px;}
+    #apply{float:left}
+    .chkbox{box-shadow: none;}
