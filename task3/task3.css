@@ -1,0 +1,35 @@
+*{margin: 0%;
+    padding: 0%;}
+    #all{width: 1170px;display: inline-block;padding: 10px;}
+    nav{background: black;color: white;}
+    #menu{list-style: none;}
+    #menu li{display: inline-block;float:left;padding-left: 30px;}
+    #menu a{text-decoration: none;color: white;}
+    img{width: 50px;background-color: black;float: left;padding-left: 20px;}
+    #image{float: left;
+        padding-left: 10px;
+        color: #8566b554;
+        font-family: arial;}
+        #form{float: right;}
+    input{border-radius: 5px;
+        width: 135px;
+        color: white;}
+        button{color: white;
+            border-radius: 5px;
+            background: black;
+            padding: 1px;
+            box-shadow: 0px 0px 0px 1px white;}
+    section#web{padding-left: 100px;
+        padding-top: 20px;
+        background: #07892f;
+        color: black;
+        padding-bottom: 100px;}
+        p{font-family: arial;
+            font-size: 13px;}
+            section#Cprogram{padding-left: 100px;
+                padding-top: 20px;
+                background: blue;
+                color: black;
+                padding-bottom: 100px;}
+                p{font-family: arial;
+                    font-size: 13px;}
